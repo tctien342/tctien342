@@ -14,17 +14,20 @@
 - An hackintosh man :apple:
 - Fullstack noob, still need to learn more :laughing:
 
-<!--
-**tctien342/tctien342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/tctien342)](https://github.com/tctien342) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/tctien342)](https://github.com/tctien342)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/tctien342)](https://gitlab.com/tctien342) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/tctien342)](https://github.com/tctien342)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/tctien342)](https://github.com/tctien342) 
 
-Here are some ideas to get you started:
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/tctien342)](https://github.com/tctien342) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/tctien342)](https://github.com/tctien342) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/tctien342)](https://github.com/tctien342) 
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/tctien342)](https://github.com/tctien342)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/tctien342)](https://github.com/tctien342) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/tctien342)](https://github.com/tctien342) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/tctien342)](https://github.com/tctien342) 
+
+### Stats
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=tctien342&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
