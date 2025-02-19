@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tctien342&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
-
 ## 👋 Hello! I'm SaintNo (Tien) 
-### Full-Stack Developer with Expertise in Blockchain | Mobile Apps | DevOps 
+### Full-Stack Developer with Expertise in React | Mobile Apps | DevOps 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif'/>
 
 **Key Skills:**
@@ -17,7 +13,7 @@
 **Currently Exploring:**
 * Flutter, Rust
 
-**Working Environments:** Windows (Intel 12th), macOS (M1 Pro), Linux (KVM64)
+**Working Environments:** Windows (Ryzen 7600), macOS (M1 Pro)
 **IDEs:** nvim, VS Code
 
 **Let's Connect:**
